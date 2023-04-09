@@ -25,7 +25,7 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
 ## Step 3: Trying Some Commands
 <li> In the termianl, try various commands to get familiar with them all. 
 <li> Make sure that you understand why the command gives you the result it does.
-<li> IF all is correct, you should see something like this when commands are run!
+<li> If all is correct, you should see something like this when commands are run!
  
 ![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-05%20at%203.50.54%20PM.png)
 
