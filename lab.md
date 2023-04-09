@@ -20,5 +20,5 @@ Hello class, today I will give a step by step tutorial on how to long into a cou
 ![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-05%20at%203.44.34%20PM.png)
  
 <ol>
-  
 ## Step 3: Remotely access your account
+ 
