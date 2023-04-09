@@ -1,5 +1,5 @@
 # Lab Report 1 CSE 15L
-Hello class, today I will give a step by step tutorial on how to long into a course-specific account on ieng6.
+Hello class, today I will give a step by step tutorial on how to log into a course-specific account on ieng6.
 
 ## Step 1: installing VScode
 <li> I already had VS code downloaded on my computer, but the first step must be to access Visual Studio Code on your personal app store or website.
@@ -7,7 +7,7 @@ Hello class, today I will give a step by step tutorial on how to long into a cou
 <li> Once VS code is open, this is what should be shown. 
 
 ![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-05%20at%204.21.01%20PM.png)
-<li> To remotely access your account, go to terminal in Visual Stuido code. This is done by clicking in the go to termianl bar, then clicking new terminal. 
+<li> To remotely access your account, go to terminal in Visual Stuido code. This is done by clicking on the "Go to termianl bar", then clicking "new terminal". 
  
 </ol>
 
