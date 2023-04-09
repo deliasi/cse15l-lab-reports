@@ -29,4 +29,6 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
  
 ![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-05%20at%203.50.54%20PM.png)
 
+<li> Your results may look different based on the commands you choose, but I reccomend trying ls -lat, ls -a, and cd to begin.
+
  
