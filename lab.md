@@ -1,5 +1,5 @@
-# CSE 15L Lab Report 1 
-Hello class, today we will give a step by step tutorial on how to long into a course-specific account on ieng6.
+# Lab Report 1 CSE 15L
+Hello class, today I will give a step by step tutorial on how to long into a course-specific account on ieng6.
 
 ## Step 1: Using the terminal in VS Code
 <li> I already had VS code downloaded on my computer, but the first step must be to access Visual Studio Code on your personal app store or website.
@@ -12,11 +12,13 @@ Hello class, today we will give a step by step tutorial on how to long into a co
 </ol>
 
 ## Step 2: Remotely access your account
-<ol>
 <li> Find your specific account at(https://sdacs.ucsd.edu/~icc/index.php). Once prompted, set new password for your course specific account.
 </li> Go to the termianl in VS Code and type "$ ssh cs15lsp23zz@ieng6.ucsd.edu". However, replace the "zz" in the message with letters from your course-specific account.
 <li> First time users must enter yes after asked if they want to continue logging in! Then, you will be asked to enter your password in order to remotely access your account.
 <li> Once entered, you should see something like this.
   
 ![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-05%20at%203.44.34%20PM.png)
-
+ 
+ <ol>
+  
+## Step 3: Remotely access your account
