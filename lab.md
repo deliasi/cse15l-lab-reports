@@ -24,7 +24,7 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
 <li> Once you enter your password and connect, you should see something like this.
  
  <img src = "https://user-images.githubusercontent.com/130005419/230987541-7d3b3faa-1c18-4dc1-b7b0-0b1fd59b0bcb.png">
-
+ </li>
 
 <br>
 ## Step 3: Trying Some Commands
