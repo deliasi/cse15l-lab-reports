@@ -13,7 +13,9 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
  
 </ol>
 
-## Step 2: Remotely Connecting
+## Step 2:  Remotely Connecting
+<ol>
+
 <li> Find your specific account at(https://sdacs.ucsd.edu/~icc/index.php). Once prompted, set new password for your course specific account.
 </li> Go to the termianl in VS Code and type "$ ssh cs15lsp23zz@ieng6.ucsd.edu". However, replace the "zz" in the message with letters from your course-specific account.
 <li> Enter yes after asked if you want to continue logging in and ensure authenticity! Then, you will be asked to enter your password in order to connect to the your account. 
@@ -24,6 +26,8 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
 </ol>
 
 ## Step 3: Trying Some Commands
+<ol>
+ 
 <li> In the termianl, try various commands to get familiar with them all. 
 <li> Make sure that you understand why the command gives you the result it does.
 <li> If all is correct, you should see something like this when commands are run!
