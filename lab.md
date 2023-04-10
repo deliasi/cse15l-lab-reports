@@ -5,9 +5,10 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
 <li> I already had VS code downloaded on my computer, but the first step must be to access Visual Studio Code on your personal app store or website.
 <li> Download at (https://code.visualstudio.com/) and follow instructions to install.
 <li> Once VS code is open, this is what should be shown. 
- 
-</ol>
+ ![Screen Shot 2023-04-05 at 3 44 34 PM](https://user-images.githubusercontent.com/130005419/230975963-92508d8f-17ae-499d-b469-7197ed9efd2b.png)
 
+</ol>
+Screen Shot 2023-04-05 at 3.44.34 PM.png
 ![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-05%20at%204.21.01%20PM.png)
  
 <li> To remotely access your account, go to terminal in Visual Stuido code. This is done by clicking on the "Go to termianl bar", then clicking "new terminal". 
