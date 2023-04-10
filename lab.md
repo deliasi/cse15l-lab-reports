@@ -14,12 +14,7 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
  </li>
  
 </ol>
-<img src = "" alt = "New terminal opened">
-
-</ol>
-
-## Step 2: Remote access your account
-<ol>
+<br>
 ## Step 2:  Remotely Connecting
 <ol>
 
@@ -31,7 +26,7 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
  <img src = "https://user-images.githubusercontent.com/130005419/230987541-7d3b3faa-1c18-4dc1-b7b0-0b1fd59b0bcb.png">
 
 </ol>
-
+<br>
 ## Step 3: Trying Some Commands
 <ol>
  
