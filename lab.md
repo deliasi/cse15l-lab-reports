@@ -14,7 +14,12 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
  </li>
  
 </ol>
+<img src = "" alt = "New terminal opened">
 
+</ol>
+
+## Step 2: Remote access your account
+<ol>
 ## Step 2:  Remotely Connecting
 <ol>
 
