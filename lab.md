@@ -8,7 +8,9 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
 </li>
 
 ![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-05%20at%204.21.01%20PM.png)
- 
+
+ ![pic](https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png)
+
  <img src = Screen%20Shot%202023-04-05%20at%203.44.34%20PM.png
       
 <li> To remotely access your account, go to terminal in Visual Stuido code. This is done by clicking on the "Go to termianl bar", then clicking "new terminal". 
