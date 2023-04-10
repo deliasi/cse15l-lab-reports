@@ -5,6 +5,7 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
 <li> I already had VS code downloaded on my computer, but the first step must be to access Visual Studio Code on your personal app store or website.
 <li> Download at (https://code.visualstudio.com/) and follow instructions to install.
 <li> Once VS code is open, this is what should be shown. 
+</li>
 
 ![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-05%20at%204.21.01%20PM.png)
  
