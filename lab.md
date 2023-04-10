@@ -31,11 +31,12 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
 <ol>
  
 <li> In the terminal, try various commands to get familiar with them all. 
+<li> Some example commands are: ls <directory>, cd, ls -a, ls -lat, cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/, cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 <li> Make sure that you understand why the command gives you the result it does.
 <li> If all is correct, you should see something like this when commands are run!
 
 <img src = "https://user-images.githubusercontent.com/130005419/230987757-621998fd-b815-4d8d-8044-9dd47457bceb.png">
 
-<li> Your results may look different based on the commands you choose, but I reccomend trying ls -lat, ls -a, and cd to begin.
+<li> Your results may look different based on the commands you choose, but I recommend trying ls -lat, ls -a, and cd to begin.
 
  
