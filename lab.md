@@ -27,22 +27,22 @@ I already had VS code downloaded on my computer, but the first step must be to a
  <img src = "https://user-images.githubusercontent.com/130005419/230987541-7d3b3faa-1c18-4dc1-b7b0-0b1fd59b0bcb.png">
 
 <br>
+
 ## Step 3: Trying Some Commands
 <ol>
- 
-<li> In the terminal, try various commands to get familiar with them all. 
- <li> One example command I tried and found useful was 
+ In the terminal, try various commands to get familiar with them all. 
+ <br> One example command I tried and found useful was 
          
-          cat /home/linux/ieng6/cs15lsp23/public/hello.txt.
- Calling the cat command would read the file parameter and display the standard output.
+          cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+ <br>Calling the cat command would read the file parameter and display the standard output.
  
 <img src = "https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.41.35%20PM.png">
-   </li>
+   
   <br>
-  <li> Another useful command to try would be 
+  Another useful command to try would be 
    
            ls -lat
-   The ls command is key for listing the conetnst of the specific working directory you want.
+   <br>The ls command is key for listing the conetnst of the specific working directory you want.
    
 <img src = "https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.39.40%20PM.png">
    <br>
