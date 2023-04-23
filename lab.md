@@ -33,8 +33,32 @@ However, replace the "zz" in the message with letters from your course-specific 
 <ol>
  
 <li> In the terminal, try various commands to get familiar with them all. 
+ <li> One example command I tried and found usefl was 
+         
+          cat /home/linux/ieng6/cs15lsp23/public/hello.txt.
+ Calling the cat command would read the file parameter and write the standard output.
+ 
+<img src = "https://user-images.githubusercontent.com/130005419/230987757-621998fd-b815-4d8d-8044-9dd47457bceb.png">
+  
+  <li> Another useful command to try would be 
+   
+           ls -lat
+   The ls command is key for listing the conetnst of the specific working directory you want.
+   
+<img src = "https://user-images.githubusercontent.com/130005419/230987757-621998fd-b815-4d8d-8044-9dd47457bceb.png">
+   
+   <li> Another example of a command I tried and think would be useful to practice with would be 
+    
+            cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
+   Using the cp command will not always produce a direct output as seen below, but is useful for copying the contents of a file into a more specifieced source file.
+    
+ <img src = "https://user-images.githubusercontent.com/130005419/230987757-621998fd-b815-4d8d-8044-9dd47457bceb.png">
+   
 <li> Some example commands are: cd, ls -a, ls -lat, cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/, cat /home/linux/ieng6/cs15lsp23/public/hello.txt
-<li> Make sure that you understand why the command gives you the result it does.
+<li> Certain commands have differents uses, but all commands are useful.
+ <br> I recommend using the commands with different parameters in order to notice the change in output. 
+ <br> Understanding the purpose of each command allows for a far more broad use amongst multiple files.
+ <br> Being able to use these commands succesfully will allow you to list contenst of working directories, move between directories, and ultimately give you power to alter the contents of your files.
 <li> If all is correct, you should see something like this when commands are run!
 
 <img src = "https://user-images.githubusercontent.com/130005419/230987757-621998fd-b815-4d8d-8044-9dd47457bceb.png">
