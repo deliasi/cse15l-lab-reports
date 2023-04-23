@@ -2,9 +2,8 @@
 Hello class, today I will give a step by step tutorial on how to log into a course-specific account on ieng6.
 
 ## Step 1: installing VScode
-<ol>
- <li>I already had VS code downloaded on my computer, but the first step must be to access Visual Studio Code on your personal app store or website.
- <li>Download at [Code Visual Studio](https://code.visualstudio.com/) and follow instructions to install.
+I already had VS code downloaded on my computer, but the first step must be to access Visual Studio Code on your personal app store or website.
+ <br>Download [Visual Studio](https://code.visualstudio.com/) and follow instructions to install.
  <li>Once VS code is open, this is what should be shown. 
 
 
@@ -15,12 +14,14 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
  </li>
  
 
-<br>
 ## Step 2:  Remotely Connecting
 <ol>
 
-<li> Find your specific account at [SDacs Ucsd](https://sdacs.ucsd.edu/~icc/index.php). Once prompted, set new password for your course specific account.
-<li> Go to the termianl in VS Code and type "$ ssh cs15lsp23zz@ieng6.ucsd.edu". However, replace the "zz" in the message with letters from your course-specific account.
+Find your specific account at [SDacs Ucsd](https://sdacs.ucsd.edu/~icc/index.php). 
+<li>Once prompted, set new password for your course specific account. Go to the termianl in VS Code and type 
+ 
+        $ ssh cs15lsp23zz@ieng6.ucsd.edu
+However, replace the "zz" in the message with letters from your course-specific account.
 <li> Enter yes after asked if you want to continue logging in and ensure authenticity! Then, you will be asked to enter your password in order to connect to the your account. 
 <li> Once you enter your password and connect, you should see something like this.
  
