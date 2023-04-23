@@ -15,7 +15,7 @@ I already had VS code downloaded on my computer, but the first step must be to a
  
 
 ## Step 2:  Remotely Connecting
-<ol>
+
 
 Find your specific account at [SDacs Ucsd](https://sdacs.ucsd.edu/~icc/index.php). 
 <li>Once prompted, set new password for your course specific account. Go to the termianl in VS Code and type 
