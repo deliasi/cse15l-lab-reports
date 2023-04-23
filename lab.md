@@ -47,11 +47,14 @@ I already had VS code downloaded on my computer, but the first step must be to a
    <br> The ls command is key for listing the conetnst of the specific working directory you want.
    
 <img src = "https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.39.40%20PM.png">
+
+
    <br>
-   <li> Another example of a command I tried and think would be useful to practice with would be 
+   Another example of a command I tried and think would be useful to practice with would be 
     
             cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
-   Using the cp command will not always produce a direct output as seen below, but is useful for copying the contents of a file into a more specifieced source file.
+            
+   <br>Using the cp command will not always produce a direct output as seen below, but is useful for copying the contents of a file into a more specifieced source file.
     
  <img src = "https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.49.28%20PM.png">
    <br>
