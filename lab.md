@@ -6,7 +6,7 @@ Hello class, today I will give a step by step tutorial on how to log into a cour
 <li> I already had VS code downloaded on my computer, but the first step must be to access Visual Studio Code on your personal app store or website.
 <li> Download at [Visual Studio](https://code.visualstudio.com). and follow instructions to install.
 <li> Once VS code is open, this is what should be shown. 
- [Duck Duck Go](https://duckduckgo.com)
+ Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
  <img src = "https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png">
  </li>
