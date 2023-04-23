@@ -39,6 +39,7 @@ However, replace the "zz" in the message with letters from your course-specific 
  Calling the cat command would read the file parameter and display the standard output.
  
 <img src = "https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.41.35%20PM.png">
+   </li>
   <br>
   <li> Another useful command to try would be 
    
