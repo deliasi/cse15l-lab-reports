@@ -31,7 +31,7 @@ I already had VS code downloaded on my computer, but the first step must be to a
 
 ## Step 3: Trying Some Commands
  In the terminal, try various commands to get familiar with them all. 
- <br> One example command I tried and found useful was 
+ <br> <li> One example command I tried and found useful was 
          
           cat /home/linux/ieng6/cs15lsp23/public/hello.txt
           
@@ -40,13 +40,13 @@ I already had VS code downloaded on my computer, but the first step must be to a
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%203.41.35%20PM.png">
    
   <br>
-  Another useful command to try would be 
+  <li>Another useful command to try would be 
    
            ls -lat
            
    <br> The ls command is key for listing the conetnst of the specific working directory you want.
-   
-![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.39.40%20PM.png)
+   https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%203.39.40%20PM.png
+<img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%203.39.40%20PM.png">
 
    <br>
    Another example of a command I tried and think would be useful to practice with would be 
@@ -55,7 +55,7 @@ I already had VS code downloaded on my computer, but the first step must be to a
             
    <br>Using the cp command will not always produce a direct output as seen below, but is useful for copying the contents of a file into a more specifieced source file.
     
- ![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.49.28%20PM.png)
+<img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%203.49.28%20PM.png">
    <br>
     
 Some more example commands are:
