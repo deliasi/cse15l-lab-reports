@@ -37,8 +37,10 @@ I already had VS code downloaded on my computer, but the first step must be to a
           
  <br> Calling the cat command would read the file parameter and display the standard output.
  
-<img src = "https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.41.35%20PM.png">
+<img src = "(https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%203.41.35%20PM.png)">
+
    ![Image](Screen Shot 2023-04-23 at 3.41.35 PM.png)
+   
   <br>
   Another useful command to try would be 
    
@@ -47,7 +49,7 @@ I already had VS code downloaded on my computer, but the first step must be to a
    <br> The ls command is key for listing the conetnst of the specific working directory you want.
    
 <img src = "https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.39.40%20PM.png">
-![Image](Screen Shot 2023-04-23 at 3.41.35 PM.png)
+![Image](https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.49.28%20PM.png)
 
    <br>
    Another example of a command I tried and think would be useful to practice with would be 
