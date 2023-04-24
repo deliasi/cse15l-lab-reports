@@ -59,7 +59,9 @@ I already had VS code downloaded on my computer, but the first step must be to a
  <img src = "https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.49.28%20PM.png">
    <br>
     
-<li> Some more example commands are: cd, ls -a, ls <directory> (where directory is replaced by an actual specific directory>, ls -lat, cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/, cat /home/linux/ieng6/cs15lsp23/public/hello.txt
+Some more example commands are:
+
+        cd, ls -a, ls <directory> (where directory is replaced by an actual specific directory>, ls -lat, cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/, cat /home/linux/ieng6/cs15lsp23/public/hello.txt
 <li> Certain commands have differents uses, but all commands are useful.
  <br> I recommend using the commands with different parameters in order to notice the change in output. 
  <br> Understanding the purpose of each command allows for a far more broad use amongst multiple files.
