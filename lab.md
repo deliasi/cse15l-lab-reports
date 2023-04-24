@@ -38,7 +38,7 @@ I already had VS code downloaded on my computer, but the first step must be to a
  <br> Calling the cat command would read the file parameter and display the standard output.
  
 <img src = "https://github.com/deliasi/cse15l-lab-reports/blob/main/Screen%20Shot%202023-04-23%20at%203.41.35%20PM.png">
-   
+   ![Image](Screen Shot 2023-04-23 at 3.41.35 PM.png)
   <br>
   Another useful command to try would be 
    
