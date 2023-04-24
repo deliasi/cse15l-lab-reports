@@ -115,5 +115,5 @@ I began by creating the contents of my StingerServer program.
  </li>
  
  ## Part 3: Something I Learned
- <li> 
+ <li> Throughout the process of fixing the buggy code in lab 3, I learned that taking advantage of JUnit tests is essential in ensurring that you have the correct contents. As we saw, there is always the possibility that certain tests can still pass faulty code, however, by creating various different tests, I was more able to recognize the mistake within the code. I did not grasp the advantage of creating these tests until I had to deal with incorrect methods given to me.
 
