@@ -18,8 +18,102 @@ I began by creating the contents of my StingerServer program.
   
  <img src = "https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png">
    
-   The StringServer method is called and is very important.
-   In order to check if we have a valid port number, through this method, we compare our argument length to ensure we are on the right track.
-   The specific value of my relevant field was 4000, whcih stood as my port number. This value is apart of my relevant field. The 
+   <li>The StringServer method is called and is very important.
+   <li>In order to check if we have a valid port number, through this method, we compare our argument length to ensure we are on the right track.
+   <li>The specific value of my relevant field was 4000, whcih stood as my port number. This value is apart of my relevant field. The 
    port number does not change bacsue it is used to access the local host.
-   Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s
+   <li>Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s
+    
+  </li>
+  
+  ### Part 2: Bugs
+  In order to cause failure from the written code, I used the tests below.
+  
+          @Test
+          public void testReversedInPlace2() {
+            int[] input1 = {2,3,4};
+            assertArrayEquals(new int[]{4,3,2}, ArrayExamples.reversed(input1));
+         }
+         
+         
+          @Test
+          public void testReversed2() {
+            int[] input1 = {2,3,4};
+            assertArrayEquals(new int[]{4,3,2}, ArrayExamples.reversed(input1));
+         }
+   <br>
+   
+   Inputs to the same written code that did not cause failure are shown below.
+   
+           @Test 
+	          public void testReverseInPlace() {
+              int[] input1 = { 3 };
+              ArrayExamples.reverseInPlace(input1);
+              assertArrayEquals(new int[]{ 3 }, input1);
+	         }
+
+
+          @Test
+          public void testReversed() {
+             int[] input1 = { };
+             assertArrayEquals(new int[]{ }, ArrayExamples.reversed(input1));
+          }
+          
+   <br>
+   
+   The sympton, as the output of running these tests is shown below.
+   <img src = "https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png">
+   
+   In order to pass all the tests, we had to fix the buggy code.
+   Before the code was fixed it looked as so.
+   
+           static void reverseInPlace(int[] arr) {
+               for(int i = 0; i < arr.length; i += 1) {
+                  arr[i] = arr[arr.length - i - 1];
+           }
+       }
+       
+           static int[] reversed(int[] arr) {
+              int[] newArray = new int[arr.length];
+             for(int i = 0; i < arr.length; i += 1) {
+                arr[i] = newArray[arr.length - i - 1];
+           }
+          return arr;
+       }
+<br>
+
+  Once I changed the contents of my code, it looked as so.
+  
+          static void reverseInPlace(int[] arr) {
+               if (arr == null || arr.length <= 1) {
+                   return;
+           }
+ 
+          int len = arr.length;
+          for (int i = 0; i < len / 2; i++) {
+              int tempFront = arr[i];
+              int tempLast = arr[len - i - 1);
+              arr[i] = tempLast;
+              arr[len - i -1] = tempFront;
+           }
+       }
+       
+       
+           static int[] reversed(int[] arr) {
+              int[] newArray = new int[arr.length];
+              for(int i = 0; i < arr.length; i += 1) {
+                  newArray[arr.length - i - 1] = arr[i];
+           }
+          return newArray;
+       }
+       
+ <br>
+ 
+ <li> For reverseInPlace(), I needed to create new temp values to switch the array elements, until it reached the middle element;
+ <li>For the reversed() method, the code was modifying the old array, and it didn’t even return the new one! So I need to reassign the value and make surethe correct array is being returned. 
+  
+ </li>
+ 
+ ## Part 3: Something I Learned
+ <li> 
+
