@@ -9,13 +9,12 @@ I began by creating the contents of my StingerServer program.
  
   <img src = "https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png">
   
-  The handleRequest method is called
-  One of the relevant arguments within the method is url.getpath and contains. This is what ultimately matches our string url in order to display the correct
+  <li>The handleRequest method is called
+  <li>One of the relevant arguments within the method is url.getpath and contains. This is what ultimately matches our string url in order to display the correct
   output.
-  Another important argument is the String array called parameters which splits the url so that the first half is equal to the second.
-  Another important argument is equalling the parameter array index at 0 with our desired outcome. 
-  Through our code, the value of our url is added to and consistently compared to make sure we stay on the right track. In our method, url is split in order
-  to compare its two halves.
+  <li>Another important argument is the String array called parameters which splits the url so that the first half is equal to the second.
+  <li>Another important argument is equalling the parameter array index at 0 with our desired outcome. 
+  <li>Through our code, the value of our url is added to and consistently compared to make sure we stay on the right track. In our method, url is split in order to compare its two halves.
   
  <img src = "https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png">
 
