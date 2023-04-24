@@ -45,7 +45,7 @@ I already had VS code downloaded on my computer, but the first step must be to a
    
            ls -lat
            
-   <br> The ls command is key for listing the conetnst of the specific working directory you want.
+   <br> The ls command is key for listing the contents of the specific working directory you want.
 
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%203.39.40%20PM.png">
 
@@ -54,7 +54,7 @@ I already had VS code downloaded on my computer, but the first step must be to a
     
             cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
             
-   <br>Using the cp command will not always produce a direct output as seen below, but is useful for copying the contents of a file into a more specifieced source file.
+   <br>Using the cp command will not always produce a direct output as seen below, but is useful for copying the contents of a file into a more specified source file.
     
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%203.49.28%20PM.png">
    <br>
@@ -68,7 +68,7 @@ Some more example commands are:
         cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/
         cat /home/linux/ieng6/cs15lsp23/public/hello.txt
         
-<li> Certain commands have differents uses, but all commands are useful.
+<li> Certain commands have different uses, but all commands are useful.
  <br> I recommend using the commands with different parameters in order to notice the change in output. 
  <br> Understanding the purpose of each command allows for a far more broad use amongst multiple files.
  <br> Being able to use these commands succesfully will allow you to list contents of working directories, move between directories, and ultimately give you power to alter the contents of your files.
