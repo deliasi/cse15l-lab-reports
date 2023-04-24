@@ -3,11 +3,11 @@
 ## Part 1: StringServers
 I began by creating the contents of my StingerServer program.  
 
- <img src = "https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png">
+ <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%207.54.12%20PM.png">
  
- Then, I tested my code by searching on the web with the local host and port number, followed by the message I wanted to add.
+ Then, I tested my code by searching on the web with the local host and port number, followed by the message I wanted to add. The message I wanted to display first was my name, derrick.
  
-  <img src = "https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png">
+  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
   
   <li>The handleRequest method is called
   <li>One of the relevant arguments within the method is url.getpath and contains. This is what ultimately matches our string url in order to display the correct
@@ -15,8 +15,11 @@ I began by creating the contents of my StingerServer program.
   <li>Another important argument is the String array called parameters which splits the url so that the first half is equal to the second.
   <li>Another important argument is equalling the parameter array index at 0 with our desired outcome. 
   <li>Through our code, the value of our url is added to and consistently compared to make sure we stay on the right track. In our method, url is split in order to compare its two halves.
+   </li>
+   
+   The next message I wanted to print was, "Hiii".
   
- <img src = "https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png">
+ <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
    
    <li>The StringServer method is called and is very important.
    <li>In order to check if we have a valid port number, through this method, we compare our argument length to ensure we are on the right track.
@@ -62,7 +65,7 @@ I began by creating the contents of my StingerServer program.
    <br>
    
    The sympton, as the output of running these tests is shown below.
-   <img src = "https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png">
+   <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-24%20at%204.57.14%20PM.png">
    
    In order to pass all the tests, we had to fix the buggy code.
    Before the code was fixed it looked as so.
