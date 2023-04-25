@@ -120,7 +120,7 @@ I began by creating the contents of my StingerServer program.
  <br>
  
  <li> For reverseInPlace(), I needed to create new temp values to switch the array elements, until it reached the middle element;
- <li>For the reversed() method, the code was modifying the old array, and it didn’t even return the new one! So I need to reassign the value and make surethe correct array is being returned. 
+ <li>For the reversed() method, the code was modifying the old array, and it didn’t even return the new one! So I need to reassign the value and make sure the correct array is being returned. 
   
  </li>
  
