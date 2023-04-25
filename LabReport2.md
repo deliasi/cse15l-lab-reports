@@ -4,11 +4,13 @@
 I began by creating the contents of my StingerServer program.  
 
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%207.54.12%20PM.png">
- 
+    <br>
+
  Then, I tested my code by searching on the web with the local host and port number, followed by the message I wanted to add. The message I wanted to display first was my name, derrick.
  
   <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
-  
+     <br>
+
   <li>The handleRequest method is called
 </li>
   <li>One of the relevant arguments within the method is url.getpath and contains. This is what ultimately matches our string url in order to display the correct output.
@@ -23,7 +25,7 @@ I began by creating the contents of my StingerServer program.
    The next message I wanted to print was, "Hiii".
   
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
-   
+   <br>
    <li>The StringServer method is called and is very important.
 	</li>
    <li>In order to check if we have a valid port number, through this method, we compare our argument length to ensure we are on the right track.
@@ -73,7 +75,8 @@ I began by creating the contents of my StingerServer program.
    
    The sympton, as the output of running these tests is shown below.
    <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-24%20at%204.57.14%20PM.png">
-   
+      <br>
+
    In order to pass all the tests, we had to fix the buggy code.
    Before the code was fixed it looked as so.
    
