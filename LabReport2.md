@@ -28,8 +28,9 @@ I began by creating the contents of my StingerServer program.
    <li>Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s
     
   </li>
+  </ol>
   
-  ### Part 2: Bugs
+  ## Part 2: Bugs
   In order to cause failure from the written code, I used the tests below.
   
           @Test
