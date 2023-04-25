@@ -31,7 +31,7 @@ I began by creating the contents of my StingerServer program.
    <li>The specific value of my relevant field was 4000, whcih stood as my port number. This value is apart of my relevant field. The 
    port number does not change bacsue it is used to access the local host.
 	</li>
-   <li>Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s contents if changed by the contents of url. As the code runs, more is added to our url, which uktimately is returned into our String s.
+   <li>Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s contents if changed by the contents of url. As the code runs, more is added to our url, which ultimately is returned into our String s.
     
   </li>
   
