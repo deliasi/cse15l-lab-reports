@@ -134,10 +134,7 @@ Then, I tested my code by searching on the web with the local host and port numb
 	 
  method, the code was modifying the old array, and it didn’t even return the new one! So I need to reassign the value and make sure the correct array is  being returned. 
   
- </li>
  
- </br>
- 
- ## Part 3: Something I Learned
+## Part 3: Something I Learned
  <li> Throughout the process of fixing the buggy code in lab 3, I learned that taking advantage of JUnit tests is essential in ensurring that you have the correct contents. As we saw, there is always the possibility that certain tests can still pass faulty code, however, by creating various different tests, I was more able to recognize the mistake within the code. I did not grasp the advantage of creating these tests until I had to deal with incorrect methods given to me.
 
