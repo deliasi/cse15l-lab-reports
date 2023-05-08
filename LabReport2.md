@@ -39,7 +39,7 @@ I began by creating the contents of my StingerServer program.
  
  <br>
   
-  ## Part 2: Bugs
+ ## Part 2: Bugs
   <br>In order to cause failure from the written code, I used the tests below.
   
           @Test
