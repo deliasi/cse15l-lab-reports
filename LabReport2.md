@@ -6,9 +6,11 @@ I began by creating the contents of my StingerServer program.
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%207.54.12%20PM.png">
     
 
- Then, I tested my code by searching on the web with the local host and port number, followed by the message I wanted to add. The message I wanted to display first was my name, derrick.
+ <li>Then, I tested my code by searching on the web with the local host and port number, followed by the message I wanted to add. The message I wanted to display first was my name, derrick.
  
   <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
+	
+</li>
     
 
   The method which is called is
@@ -24,10 +26,11 @@ I began by creating the contents of my StingerServer program.
   <li>Through our code, the value of our url is added to and consistently compared to make sure we stay on the right track. In our method, url is split in order to compare its two halves.
    </li>
    
-   The next message I wanted to print was, "Hiii".
+   <li>The next message I wanted to print was, "Hiii".
   
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
    
+	</li>
    The method which is called is 
    
              public static void main(String[] args) throws IOException
