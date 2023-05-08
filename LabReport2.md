@@ -34,9 +34,7 @@ Then, I tested my code by searching on the web with the local host and port numb
 	
   
    The main method in StringServer class is called, which takes in String array args[] and of port number. 
-
-    <li> We compare our argument length to make sure that it is a valid number. The values of our String s and Url are changed due to the new commands being displayed. 
-	</li>
+   We compare our argument length to make sure that it is a valid number. The values of our String s and Url are changed due to the new commands being displayed.
    <li>The specific value of my relevant field was 4000, which stood as my port number. This value is apart of my relevant field. The 
    port number does not change bacsue it is used to access the local host.
 	</li>
