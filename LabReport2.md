@@ -37,7 +37,8 @@ I began by creating the contents of my StingerServer program.
    port number does not change bacsue it is used to access the local host.
    Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s contents if changed by the contents of url. As the code runs, more is added to our url, which ultimately is returned into our String s.
  
- <br>
+ </li>
+ 
   
  ## Part 2: Bugs
   <br>In order to cause failure from the written code, I used the tests below.
