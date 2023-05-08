@@ -4,12 +4,12 @@
 I began by creating the contents of my StingerServer program.  
 
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%207.54.12%20PM.png">
-    <br>
+    
 
  Then, I tested my code by searching on the web with the local host and port number, followed by the message I wanted to add. The message I wanted to display first was my name, derrick.
  
   <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
-     <br>
+    
 
   The method which is called is
           
@@ -27,7 +27,7 @@ I began by creating the contents of my StingerServer program.
    The next message I wanted to print was, "Hiii".
   
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
-   <br>
+   
    The method which is called is 
    
              public static void main(String[] args) throws IOException
@@ -37,7 +37,6 @@ I began by creating the contents of my StingerServer program.
    port number does not change bacsue it is used to access the local host.
    Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s contents if changed by the contents of url. As the code runs, more is added to our url, which ultimately is returned into our String s.
  
- </li>
  
   
  ## Part 2: Bugs
