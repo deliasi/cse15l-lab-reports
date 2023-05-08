@@ -32,7 +32,9 @@ Then, I tested my code by searching on the web with the local host and port numb
    
              public static void main(String[] args) throws IOException
 	
-   <li>In order to check if we have a valid port number, through this method, we compare our argument length to ensure we are on the right track.
+   <li>The main method in StringServer class is called, which takes in String array args[] and of port number. 
+</li>
+    <li> We compare our argument length to make sure that it is a valid number. The values of our String s and Url are changed due to the new commands being displayed. 
 	</li>
    <li>The specific value of my relevant field was 4000, which stood as my port number. This value is apart of my relevant field. The 
    port number does not change bacsue it is used to access the local host.
@@ -61,7 +63,7 @@ Then, I tested my code by searching on the web with the local host and port numb
    Inputs to the same written code that did not cause failure are shown below.
    
            @Test 
-	          public void testReverseInPlace() {
+	   public void testReverseInPlace() {
               int[] input1 = { 3 };
               ArrayExamples.reverseInPlace(input1);
               assertArrayEquals(new int[]{ 3 }, input1);
@@ -129,7 +131,7 @@ Then, I tested my code by searching on the web with the local host and port numb
  
          reverseInPlace()
 	
- The code was buggy because it was setting our old array equal to the new one without keeping track of our inital array value. I needed to create new temp values to switch the array elements, until it reached the middle element;
+ The code was buggy because it was setting our old array equal to the desired new one without keeping track of our inital array value. I needed to create new temp values to switch the array elements, until it reached the middle element; Then, I needed to set my new array to that temp value as so.
  
  For the 
  
