@@ -11,7 +11,9 @@ I began by creating the contents of my StingerServer program.
   <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
      <br>
 
-  <li>The handleRequest method is called
+  The method which is called is
+          
+	  handleRequest
 </li>
   <li>One of the relevant arguments within the method is url.getpath and contains. This is what ultimately matches our string url in order to display the correct output.
 	</li>
@@ -26,25 +28,28 @@ I began by creating the contents of my StingerServer program.
   
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
    <br>
-   <li>The StringServer method is called and is very important.
-	</li>
+   The method which is called is 
+   
+             public static void main(String[] args) throws IOException
+	
    <li>In order to check if we have a valid port number, through this method, we compare our argument length to ensure we are on the right track.
 	</li>
-   <li>The specific value of my relevant field was 4000, whcih stood as my port number. This value is apart of my relevant field. The 
+   <li>The specific value of my relevant field was 4000, which stood as my port number. This value is apart of my relevant field. The 
    port number does not change bacsue it is used to access the local host.
 	</li>
    <li>Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s contents if changed by the contents of url. As the code runs, more is added to our url, which ultimately is returned into our String s.
     
   </li>
   
-  <br>
+  </br>
+  
   ## Part 2: Bugs
   <br>In order to cause failure from the written code, I used the tests below.
   
           @Test
           public void testReversedInPlace2() {
             int[] input1 = {2,3,4};
-            assertArrayEquals(new int[]{4,3,2}, ArrayExamples.reversed(input1));
+            assertArrayEquals(new int[]{4,3,2}, ArrayExamples.reversedInPlace(input1));
          }
          
          
@@ -122,12 +127,22 @@ I began by creating the contents of my StingerServer program.
        
  <br>
  
- <li> For reverseInPlace(), I needed to create new temp values to switch the array elements, until it reached the middle element;
- <li>For the reversed() method, the code was modifying the old array, and it didn’t even return the new one! So I need to reassign the value and make sure the correct array is being returned. 
+ For the method
+ 
+         reverseInPlace()
+	
+ I needed to create new temp values to switch the array elements, until it reached the middle element;
+ 
+ For the 
+ 
+         reversed() 
+	 
+ method, the code was modifying the old array, and it didn’t even return the new one! So I need to reassign the value and make sure the correct array is  being returned. 
   
  </li>
  
- <br>
+ </br>
+ 
  ## Part 3: Something I Learned
  <li> Throughout the process of fixing the buggy code in lab 3, I learned that taking advantage of JUnit tests is essential in ensurring that you have the correct contents. As we saw, there is always the possibility that certain tests can still pass faulty code, however, by creating various different tests, I was more able to recognize the mistake within the code. I did not grasp the advantage of creating these tests until I had to deal with incorrect methods given to me.
 
