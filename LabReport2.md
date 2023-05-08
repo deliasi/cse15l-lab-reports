@@ -32,10 +32,13 @@ Then, I tested my code by searching on the web with the local host and port numb
    
              public static void main(String[] args) throws IOException
 	
-   In order to check if we have a valid port number, through this method, we compare our argument length to ensure we are on the right track.
-   The specific value of my relevant field was 4000, which stood as my port number. This value is apart of my relevant field. The 
+   <li>In order to check if we have a valid port number, through this method, we compare our argument length to ensure we are on the right track.
+	</li>
+   <li>The specific value of my relevant field was 4000, which stood as my port number. This value is apart of my relevant field. The 
    port number does not change bacsue it is used to access the local host.
-   Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s contents if changed by the contents of url. As the code runs, more is added to our url, which ultimately is returned into our String s.
+	</li>
+   <li>Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s contents if changed by the contents of url. As the code runs, more is added to our url, which ultimately is returned into our String s.
+	</li>
  
   
 ## Part 2: Bugs
