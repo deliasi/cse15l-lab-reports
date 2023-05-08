@@ -1,21 +1,45 @@
 # Lab Report 2 CSE 15L
 
 ## Part 1: StringServers
-I already had VS code downloaded on my computer, but the first step must be to access Visual Studio Code on your personal app store or website.
- <br>Download [Visual Studio](https://code.visualstudio.com/) and follow instructions to install.
- <li>Once VS code is open, this is what should be shown. 
+I began by creating the contents of my StingerServer program.  
 
+ <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%207.54.12%20PM.png">
+    
 
- <img src = "https://user-images.githubusercontent.com/130005419/230982176-812e9336-bd10-46de-bac3-9f8bc1ee4eeb.png">
- </li>
-      
-<li> To remotely access your account, go to terminal in Visual Stuido code. This is done by clicking on the "Go to termianl bar", then clicking "new terminal". 
- </li>
+Then, I tested my code by searching on the web with the local host and port number, followed by the message I wanted to add. The message I wanted to display first was my name, derrick.
  
+  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
+    
+
+  The method which is called is
+          
+	  handleRequest
+
+  <li>One of the relevant arguments within the method is url.getpath and contains. This is what ultimately matches our string url in order to display the correct output.
+	</li>
+  <li>Another important argument is the String array called parameters which splits the url so that the first half is equal to the second.
+	</li>
+  <li>Another important argument is equalling the parameter array index at 0 with our desired outcome. 
+	</li>
+  <li>Through our code, the value of our url is added to and consistently compared to make sure we stay on the right track. In our method, url is split in order to compare its two halves.
+   </li>
+   
+   The next message I wanted to print was, "Hiii".
+  
+ <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-19%20at%204.39.20%20PM.png">
+   
+   The method which is called is 
+   
+             public static void main(String[] args) throws IOException
+	
+   In order to check if we have a valid port number, through this method, we compare our argument length to ensure we are on the right track.
+   The specific value of my relevant field was 4000, which stood as my port number. This value is apart of my relevant field. The 
+   port number does not change bacsue it is used to access the local host.
+   Through out handler method, our url is split in two and both sides of our url are set equal to one another. Our String s contents if changed by the contents of url. As the code runs, more is added to our url, which ultimately is returned into our String s.
  
   
- ## Part 2: Bugs
-  <br>In order to cause failure from the written code, I used the tests below.
+## Part 2: Bugs
+<br>In order to cause failure from the written code, I used the tests below.
   
           @Test
           public void testReversedInPlace2() {
