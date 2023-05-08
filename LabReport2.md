@@ -129,7 +129,7 @@ Then, I tested my code by searching on the web with the local host and port numb
  
          reverseInPlace()
 	
- I needed to create new temp values to switch the array elements, until it reached the middle element;
+ The code was buggy because it was setting our old array equal to the new one without keeping track of our inital array value. I needed to create new temp values to switch the array elements, until it reached the middle element;
  
  For the 
  
