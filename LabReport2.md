@@ -136,7 +136,7 @@ Then, I tested my code by searching on the web with the local host and port numb
  
          reversed() 
 	 
- method, the code was modifying the old array, and it didn’t even return the new one! So I need to reassign the value and make sure the correct array is  being returned. 
+ method, the code was modifying the old array, and it didn’t even return the new one! The arr[i] was being modified in the original for loop. So I need to reassign the value and make sure the correct array is being returned. 
   
  
 ## Part 3: Something I Learned
