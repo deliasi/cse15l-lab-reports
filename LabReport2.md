@@ -1,6 +1,6 @@
 # Lab Report 2 CSE 15L
 
-## Part 1: StringServers
+## Part: StringServers
 I began by creating the contents of my StingerServer program.  
 
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-04-23%20at%207.54.12%20PM.png">
