@@ -1,0 +1,15 @@
+# Cse 15L LAb Report 3
+
+## Researching Commands - Grep 
+For my lab report, I focused on the grep command.
+A shortcut I found useful for finding different commmand line options for grep was using the
+
+         man grep
+         
+command.
+
+img
+
+### First Command Line Option (Grep -A/-B)
+
+
