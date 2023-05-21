@@ -8,7 +8,8 @@ I used the command
 <li> Using these commands, I was able to enter my ieng6 account quicker, without the need of using a password. Pressing
         enter directly logged me into my account.
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%209.46.54%20PM.png">
-</li>   
+</li>  
+
 ## Step 2: Clone your fork of the repository from your Github account
 I used the command
 
