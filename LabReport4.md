@@ -42,7 +42,7 @@ I edited the code using these commands
         <esc> 
         :wq
                 
-<li> I accessed my code using 
+I accessed my code using 
         
         vim List <tab>
        
@@ -50,20 +50,19 @@ I edited the code using these commands
         
         .java <enter>
 which got me into  the code.
- </li>       
+       
 
-<li> Once I was in my code, I accessed the line of code I wanted to change, and made the changes needed above.
+Once I was in my code, I accessed the line of code I wanted to change, and made the changes needed above.
  The commands
         
      w i
         
- helped me move through my code quicker and insert values.
-  </li> 
+helped me move through my code quicker and insert values.
+
          
                 
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.41.17%20PM.png">
-        </li>
-        </li>
+        
 
 ## Step 5: Run the tests, demonstrating that they now succeed
 I used these commands to rerun the test quickly
@@ -71,7 +70,7 @@ I used these commands to rerun the test quickly
         <up arrow> <up arrow> <up arrow> <enter>
 
         <up arrow> <up arrow> <up arrow> <enter>
-<li>  Using up arrows was a good way to rerun my tests quickly without having to type out the 
+Using up arrows was a good way to rerun my tests quickly without having to type out the 
                         
      javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter>
      java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
@@ -79,7 +78,7 @@ I used these commands to rerun the test quickly
 commands. Those commands were three up in history when I needed to access them, so I used the appropriate number of up keys.
                         
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.42.05%20PM.png">
-        </li>   
+  
         
 
 ## Step 6: Commit and push the resulting change to your Github account (you can pick any commit message!)
