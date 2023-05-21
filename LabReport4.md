@@ -48,8 +48,8 @@ I edited the code using these commands
         
         .java <enter>
 which got me into  the code.
-<li> Once I was in my code, I accessed the line of code I wanted to change, and made the changes needed above
-The commands
+<li> Once I was in my code, I accessed the line of code I wanted to change, and made the changes needed above.
+ The commands
         
      w i
         
@@ -68,7 +68,7 @@ I used these commands to rerun the test quickly
      javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter>
      java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
         
-commands. Those commands were three up in history so I used the up key.
+commands. Those commands were three up in history when I needed to access them, so I used the appropriate number of up keys.
                         
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.42.05%20PM.png">
 
@@ -82,6 +82,7 @@ I used these commands to commit and push my changes.
         
 <li> I first added my changes to the file. Then, I committed the changes creating a new
         modified file. Finally, I pushed these changes to my github respiratory.
+        
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.56.51%20PM.png">
 
 
