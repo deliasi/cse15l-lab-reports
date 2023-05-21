@@ -19,7 +19,7 @@ I used the command
 <li> A quick way to clone my fork respitory into my github was by generating ssh keys. This way, I was able to 
         use the command above and then press enter to clone.        
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.25.09%20PM.png">
-    </li>   
+</li>   
 
 ## Step 3: Run the tests, demonstrating that they fail
 I used the commands to run the tests
@@ -31,7 +31,7 @@ I used the commands to run the tests
         
 <li> I first used cd to enter into my lab7 directory. Then I used javac and java commands to run my ListExamplesTests file.        
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.29.21%20PM.png">
-        </li>   
+ </li>   
 
 ## Step 4: Edit the code file to fix the failing test
 I edited the code using these commands
@@ -50,7 +50,7 @@ I edited the code using these commands
         
         .java <enter>
 which got me into  the code.
-       
+ </li>       
 
 <li> Once I was in my code, I accessed the line of code I wanted to change, and made the changes needed above.
  The commands
@@ -58,16 +58,12 @@ which got me into  the code.
      w i
         
  helped me move through my code quicker and insert values.
+  </li> 
+         
                 
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.41.17%20PM.png">
-        </li> 
-        </li>   
-        </li>   
-
-
-
- 
-</li>     
+        </li>
+        </li>
 
 ## Step 5: Run the tests, demonstrating that they now succeed
 I used these commands to rerun the test quickly
@@ -84,7 +80,7 @@ commands. Those commands were three up in history when I needed to access them, 
                         
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.42.05%20PM.png">
         </li>   
-        </li>   
+        
 
 ## Step 6: Commit and push the resulting change to your Github account (you can pick any commit message!)
 I used these commands to commit and push my changes.
