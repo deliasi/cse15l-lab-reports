@@ -17,7 +17,6 @@ I used the command
 
 <li> A quick way to clone my fork respitory into my github was by generating ssh keys. This way, I was able to 
         use the command above and then press enter to clone.        
-        
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.25.09%20PM.png">
     
 ## Step 3: Run the tests, demonstrating that they fail
@@ -81,8 +80,7 @@ I used these commands to commit and push my changes.
         git push <enter>
         
 <li> I first added my changes to the file. Then, I committed the changes creating a new
-        modified file. Finally, I pushed these changes to my github respiratory.
-        
+        modified file. Finally, I pushed these changes to my github respiratory.    
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.56.51%20PM.png">
 
 
