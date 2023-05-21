@@ -49,6 +49,7 @@ I accessed my code using
 (tab allowed Examples to be displayed without me having to type it) and then 
         
         .java <enter>
+        
 which got me into  the code.
        
 
@@ -58,9 +59,7 @@ Once I was in my code, I accessed the line of code I wanted to change, and made 
      w i
         
 helped me move through my code quicker and insert values.
-
-         
-                
+           
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.41.17%20PM.png">
         
 
@@ -68,8 +67,8 @@ helped me move through my code quicker and insert values.
 I used these commands to rerun the test quickly
 
         <up arrow> <up arrow> <up arrow> <enter>
-
         <up arrow> <up arrow> <up arrow> <enter>
+
 Using up arrows was a good way to rerun my tests quickly without having to type out the 
                         
      javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter>
