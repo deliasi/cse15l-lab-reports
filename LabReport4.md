@@ -13,7 +13,7 @@ I used the command
 ## Step 2: Clone your fork of the repository from your Github account
 I used the command
 
-        git clone git@github.com:deliasi/lab7  <enter>
+        git clone git@github.com:deliasi/lab7 <enter>
         
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.25.09%20PM.png">
 
@@ -42,12 +42,18 @@ I edited the code using these commands
         :wq
         
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.41.17%20PM.png">
-<li> I accessed my code using vim List tab (tab allowed Examples to be displayed without me having to type it) and then 
-        .java and enter.
+<li> I accessed my code using 
+        
+        vim List <tab>
+       
+(tab allowed Examples to be displayed without me having to type it) and then 
+        
+        .java <enter>
+which got me into  the code.
 <li> Once I was in my code, I accessed the line of code I wanted to change, and made the changes needed above
 The commands
         
-         w i
+     w i
         
  helped me move through my code quicker and insert values.
         
@@ -74,6 +80,7 @@ I used these commands to commit and push my changes.
 
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.56.51%20PM.png">
       
-
+<li> I first added my changes to the file. Then, I committed the changes creating a new
+        modified file. Finally, I pushed these changes to my github respiratory.
 
   
