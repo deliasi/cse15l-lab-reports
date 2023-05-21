@@ -7,6 +7,8 @@ I used the command
         
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%209.46.54%20PM.png">
 
+<li> Using these commands, I was able to enter my ieng6 account quicker, without the need of using a password. 
+
         
 ## Step 2: Clone your fork of the repository from your Github account
 I used the command
@@ -14,6 +16,9 @@ I used the command
         git clone git@github.com:deliasi/lab7  <enter>
         
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.25.09%20PM.png">
+
+<li> A quick way to clone my fork respitory into my github was by generating ssh keys. This way, I was able to 
+        use the command above and then press enter to clone.
 
         
 ## Step 3: Run the tests, demonstrating that they fail
@@ -25,17 +30,26 @@ I used the commands to run the tests
         JUnit version 4.13.2 <enter>
         
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.29.21%20PM.png">
+<li> I first used cd to enter into my lab7 directory. Then I used javac and java commands to run my ListExamplesTests file.
         
 ## Step 4: Edit the code file to fix the failing test
 I edited the code using these commands
 
-        vim ListExamples.java <enter>
+        vim List <tab> .java <enter>
         :set number
         :43 w i <delete> 2 
         <esc> 
         :wq
         
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.41.17%20PM.png">
+<li> I accessed my code using vim List tab (tab allowed Examples to be displayed without me having to type it) and then 
+        .java and enter.
+<li> Once I was in my code, I accessed the line of code I wanted to change, and made the changes needed above
+The commands
+        
+         w i
+        
+ helped me move through my code quicker and insert values.
         
 ## Step 5: Run the tests, demonstrating that they now succeed
 I used these commands to rerun the test quickly
@@ -44,7 +58,13 @@ I used these commands to rerun the test quickly
         <up arrow> <up arrow> <up arrow> <enter>
         
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.42.05%20PM.png">
-       
+<li>  Using up arrows was a good way to rerun my tests quickly without having to type out the 
+                        
+     javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter>
+     java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests
+        
+commands.
+                
 ## Step 6: Commit and push the resulting change to your Github account (you can pick any commit message!)
 I used these commands to commit and push my changes.
 
