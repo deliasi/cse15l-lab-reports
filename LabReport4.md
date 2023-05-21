@@ -1,6 +1,6 @@
 # Cse 15L Lab Report 4
 
-## Step 1: Log into ieng6
+## Step 4: Log into ieng6
 I used the command 
 
         ssh cs15lsp23ai@ieng6.ucsd.edu <enter> Password: <enter>
@@ -10,18 +10,18 @@ I used the command
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%209.46.54%20PM.png">
 </li>  
 
-## Step 2: Clone your fork of the repository from your Github account
+## Step 5: Clone your fork of the repository from your Github account
 I used the command
 
         git clone git@github.com:deliasi/lab7 <enter>
         
 
-<li> A quick way to clone my fork respitory into my github was by generating ssh keys. This way, I was able to 
+<li> A quick way to clone my fork respiratory into my github was by generating ssh keys. This way, I was able to 
         use the command above and then press enter to clone.        
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.25.09%20PM.png">
 </li>   
 
-## Step 3: Run the tests, demonstrating that they fail
+## Step 6: Run the tests, demonstrating that they fail
 I used the commands to run the tests
 
         cd lab7 <enter>
@@ -33,7 +33,7 @@ I used the commands to run the tests
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.29.21%20PM.png">
  </li>   
 
-## Step 4: Edit the code file to fix the failing test
+## Step 7: Edit the code file to fix the failing test
 I edited the code using these commands
 
         vim List <tab> .java <enter>
@@ -63,7 +63,7 @@ helped me move through my code quicker and insert values.
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.41.17%20PM.png">
         
 
-## Step 5: Run the tests, demonstrating that they now succeed
+## Step 8: Run the tests, demonstrating that they now succeed
 I used these commands to rerun the test quickly
 
         <up arrow> <up arrow> <up arrow> <enter>
@@ -80,7 +80,7 @@ commands. Those commands were three up in history when I needed to access them, 
   
         
 
-## Step 6: Commit and push the resulting change to your Github account (you can pick any commit message!)
+## Step 9: Commit and push the resulting change to your Github account (you can pick any commit message!)
 I used these commands to commit and push my changes.
 
         git add . <enter>
