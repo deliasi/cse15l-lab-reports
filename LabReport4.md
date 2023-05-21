@@ -61,10 +61,11 @@ which got me into  the code.
                 
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.41.17%20PM.png">
 
-        </li>    
+         
 </li>   
 </li>   
-  
+</li>   
+ 
 
 ## Step 5: Run the tests, demonstrating that they now succeed
 I used these commands to rerun the test quickly
