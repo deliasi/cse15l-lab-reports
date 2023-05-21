@@ -61,7 +61,7 @@ which got me into  the code.
                 
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.41.17%20PM.png">
 
-        </li>   
+        </li>    
 </li>   
 </li>   
   
@@ -80,11 +80,11 @@ I used these commands to rerun the test quickly
 commands. Those commands were three up in history when I needed to access them, so I used the appropriate number of up keys.
                         
  <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-05-20%20at%2010.42.05%20PM.png">
-
-      </li>   
+ 
 
 </li>   
-          
+</li>   
+         
 ## Step 6: Commit and push the resulting change to your Github account (you can pick any commit message!)
 I used these commands to commit and push my changes.
 
