@@ -64,7 +64,7 @@ and not words around. The input is outputted as many times as it shows up within
         say
         say
         
-In this example. "say" is found two times within the text and therefore is printed two time in the output.
+In this example. "say" is found two times within the text and therefore is printed two times in the output.
 
         DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -o "to" Ginny_Kilgore.txt
         to
@@ -114,7 +114,7 @@ if we choose "say", and the text contains "saying", it will not print that line.
         One reason, she said, is a due to a limited budget.
         said. "This is really going to push us forward."
 
-In this example, "to" is found many times within our text and is therefore we see many lines printed in our ouput.
+In this example, "to" is found many times within our text and, therefore, we see many lines printed in our ouput.
 
         DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -w 'out' Pro_Bono_Services.txt
         DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -w 'on' Pro_Bono_Services.txt
@@ -122,5 +122,5 @@ In this example, "to" is found many times within our text and is therefore we se
         They often survive on a bare-bones budget, a staff of volunteers
         DERRICKS-MacBook-Air:media alenooshhambarchian$
         
-In this example, "on" is found twice  within our text and is therefore we see two lines printed in our ouput.
+In this example, "on" is found twice  within our text and, therefore, we see two lines printed in our ouput.
 As we see in our terminal, if no word withtin the text matches our input, no ouput will be printed.
