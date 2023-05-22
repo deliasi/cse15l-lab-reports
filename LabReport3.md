@@ -25,7 +25,7 @@ Using -A:
       agencies about $375,000 each year. My assistant, Charity
       DERRICKS-MacBook-Air:media alenooshhambarchian$ 
 
-In this example, we see 5 lines displayed after the line in which out key word is matched.
+In this example, we see 5 lines displayed after the line in which our key word is matched.
     
 -B:
 
@@ -38,7 +38,7 @@ In this example, we see 5 lines displayed after the line in which out key word i
         client waiting room. The building is close in, across the street
         DERRICKS-MacBook-Air:media alenooshhambarchian$ 
 
-In this example, we see 5 lines displayed before the line in which out key word is matched.
+In this example, we see 5 lines displayed before the line in which our key word is matched.
 
 ### Second Command Line Option (Grep -c)
 This command allows us to find the occurrences of patterns in our text files. A number is printed out
