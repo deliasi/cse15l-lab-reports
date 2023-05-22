@@ -6,7 +6,7 @@ A shortcut I found useful for finding different command line options for grep wa
 
          man grep
          
-command.
+command. This command prompted various possible command line options I could use.
 
 <img src = "https://raw.githubusercontent.com/deliasi/LabReport3/main/Screen%20Shot%202023-05-09%20at%205.34.46%20PM.png">
 
@@ -24,7 +24,8 @@ Using -A:
       building and not paying rent times five will save the non-profit
       agencies about $375,000 each year. My assistant, Charity
       DERRICKS-MacBook-Air:media alenooshhambarchian$ 
-    
+
+In this example, we see 5 lines displayed after the line in which out key word is matched.
     
 -B:
 
@@ -37,15 +38,22 @@ Using -A:
         client waiting room. The building is close in, across the street
         DERRICKS-MacBook-Air:media alenooshhambarchian$ 
 
+In this example, we see 5 lines displayed before the line in which out key word is matched.
+
 ### Second Command Line Option (Grep -c)
 This command allows us to find the occurrences of patterns in our text files. A number is printed out
 when this command is run.
 
          DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -c 'say' Farm_workers.txt
          2
+
+In this example, two lines contain our desired word, "say", and therefore, 2 is printed as our ouput.
+
          DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -c 'finally' Farm_workers.txt
          0
          DERRICKS-MacBook-Air:media alenooshhambarchian$ 
+        
+In this example, no lines contain our desired word, "finally", and therefore, 0 is printed as our ouput.
 
 
 ### Third Command Line Option (Grep -o)
@@ -55,6 +63,9 @@ and not words around. The input is outputted as many times as it shows up within
         DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -o "say"  Ginny_Kilgore.txt
         say
         say
+        
+In this example. "say" is found two times within the text and therefore is printed two time in the output.
+
         DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -o "to" Ginny_Kilgore.txt
         to
         to
@@ -74,7 +85,9 @@ and not words around. The input is outputted as many times as it shows up within
         to
         to
         DERRICKS-MacBook-Air:media alenooshhambarchian$ 
-        
+
+In this example. "to" is found 17 times within the text and therefore is printed 17 times in the output.
+
 ### Fourth Command Line Option (Grep -w)
 This command helps us find the amount of times a whole word is found within the text. For example,
 if we choose "say", and the text contains "saying", it will not print that line.
@@ -100,11 +113,14 @@ if we choose "say", and the text contains "saying", it will not print that line.
         "It's very new to the organization and it's interesting coming
         One reason, she said, is a due to a limited budget.
         said. "This is really going to push us forward."
+
+In this example, "to" is found many times within our text and is therefore we see many lines printed in our ouput.
+
         DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -w 'out' Pro_Bono_Services.txt
         DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -w 'on' Pro_Bono_Services.txt
         legal-aid organizations put marketing and development on the back
         They often survive on a bare-bones budget, a staff of volunteers
         DERRICKS-MacBook-Air:media alenooshhambarchian$
         
-       
+In this example, "on" is found twice  within our text and is therefore we see two lines printed in our ouput.
 As we see in our terminal, if no word withtin the text matches our input, no ouput will be printed.
