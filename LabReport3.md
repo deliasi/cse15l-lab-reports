@@ -114,7 +114,7 @@ if we choose "say", and the text contains "saying", it will not print that line.
         One reason, she said, is a due to a limited budget.
         said. "This is really going to push us forward."
 
-In this example, "to" is found many times within our text and, therefore, we see many lines printed in our ouput.
+In this example, "to" is found many times within our text and, therefore, we see many lines printed in our ouput that each contain "to".
 
         DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -w 'out' Pro_Bono_Services.txt
         DERRICKS-MacBook-Air:media alenooshhambarchian$ grep -w 'on' Pro_Bono_Services.txt
@@ -122,5 +122,5 @@ In this example, "to" is found many times within our text and, therefore, we see
         They often survive on a bare-bones budget, a staff of volunteers
         DERRICKS-MacBook-Air:media alenooshhambarchian$
         
-In this example, "on" is found twice  within our text and, therefore, we see two lines printed in our ouput.
+In this example, "on" is found twice  within our text and, therefore, we see two lines printed in our ouput that also contain "on".
 As we see in our terminal, if no word withtin the text matches our input, no ouput will be printed.
