@@ -47,7 +47,7 @@ Contents of each file before fixing the bug:
 Command that triggers the bug: 
 
 ```console
-DERRICKS-MacBook-Air:docsearch-main alenooshhambarchian$ ~ % cd desktop/docsearch-main 
+DERRICKS-MacBook-Air:docsearch-main alenooshhambarchian ~ % cd desktop/docsearch-main 
 DERRICKS-MacBook-Air:docsearch-main alenooshhambarchian$ docsearch-main % javac DocSearchServer.java Server.java 
 DERRICKS-MacBook-Air:docsearch-main alenooshhambarchian$ % java DocSearchServer 3000
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
