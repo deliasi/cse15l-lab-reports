@@ -5,7 +5,7 @@
 
 **Environment**: Macbook Air 2015; Mac OS; Chrome; VS Code
 
-**Context**: As I try to run my DocSearcgServer, the code results in and index out of bounds order. Am i possibly using an incorrect command?
+**Context**: As I try to run my DocSearchServer, the code results in and index out of bounds order. Am i possibly using an incorrect command?
 
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-06-05%20at%204.34.26%20PM.png">
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-06-05%20at%204.34.32%20PM.png">
