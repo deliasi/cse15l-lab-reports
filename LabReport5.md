@@ -3,23 +3,23 @@
 
 ## DocSearchServer not Running Accordingly
 
-**Environment**: Macbook Air 2015; Mac OS; Chrome; VS Code
+Ran on Macbook Air 2015 Mac OS Chrome VS Code
 
-**Context**: As I try to run my DocSearchServer, the code results in and index out of bounds order. Am i possibly using an incorrect command?
+As I try to run my DocSearchServer, the code results in and index out of bounds order. Am i possibly using an incorrect command?
 
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-06-05%20at%204.34.26%20PM.png">
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-06-05%20at%204.34.32%20PM.png">
 
 <br>
 
-**Symptom**: I expected to get a server and local server running.
+I expected to get a server and local server running.
 
 ```console
 Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
         at DocSearchServer.main(DocSearchServer.java:75)
 ```
 
-## Response with leading question
+## Response
 TA: 
 Thanks for your question Derrick, it seems that you compiled your files correctly but did not include certin commands needed after your port number. I recommend looking over your class and add what is needed. 
 
