@@ -1,7 +1,7 @@
 # CSE 15L Lab Report 5
 ## Part 1: Debugging Scenario 
 
-## Issue: DocSearchServer not Running Accordingly
+## DocSearchServer not Running Accordingly
 
 **Environment**: Macbook Air 2015; Mac OS; Chrome; VS Code
 
@@ -33,17 +33,17 @@ Wow, that helps me a lot, I noticed that I did not include a path for my server.
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-06-05%20at%204.38.13%20PM.png">
 <br>
 
-### All the info needed about the set up
+### Set Up
 [DocSearch repository](https://github.com/rcwoshimao/docsearch). 
 Contents of each file before fixing the bug:  
+    - Server.java
+    - TestDocSearch.java
+    - docsearch.sh
     - lib/
     - technical/
     - DocSearchServer.java
     - README.md
-    - Server.java
-    - TestDocSearch.java
-    - docsearch.sh
-
+    
 Command that triggers the bug: 
 
 ```console
