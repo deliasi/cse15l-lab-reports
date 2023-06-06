@@ -24,7 +24,7 @@ TA:
 Thanks for your question Derrick, it seems that you compiled your files correctly but did not include certin commands needed after your port number. I recommend looking over your class and add what is needed. 
 
 ## Student Fix:
-Wow, that helps me a lot, I noticed that I did not include a path for my server. I chose to add technical/government after mt port number in order to fix my code.
+Wow, that helps me a lot, I noticed that I did not include a path for my server. I chose to add technical/government after my port number in order to fix my code.
 
 <img src = "https://raw.githubusercontent.com/deliasi/cse15l-lab-reports/main/Screen%20Shot%202023-06-05%20at%205.15.09%20PM.png">
 <br>
